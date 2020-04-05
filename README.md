@@ -29,13 +29,13 @@ Publish your (development) web application to Azure  _4-clicks!_
 ![scale down][6c.SetServicePlan]
 
 
-[1.GettingStarted]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/1.getting_started.png "Select Publish from project context menu" {: width=200}
-[2.SelectTarget]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/2.Select_Target.png "Create New Profile" {: width=200}
-[3.CreateProfile]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/3.Create_Profile.png "Profile Settings" {: width=200}
-[4.Publish]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/4.Publish_to_Azure.png "Publish AppService" {: width=200}
-[5a.Test]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/5a.Test.png "Test in Browser" {: width=200}
-[5b.Test]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/5b.Test.png "Test with Mobile Browser" {: width=200}
-[6a.ViewInPortal]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/6a.Azure_Service_Plans.png "Find AppService in Portal" {: width=200}
-[6b.ServicePlans]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/6b.Azure_App_Service.png "View Service Plans(and default!)" {: width=200}
-[6c.SetServicePlan]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/6c.Scale_Down.png "Select Dev Service Plan" {: width=200}
+[1.GettingStarted]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/1.getting_started.png =200px "Select Publish from project context menu"
+[2.SelectTarget]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/2.Select_Target.png =200px "Create New Profile"
+[3.CreateProfile]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/3.Create_Profile.png =200px "Profile Settings"
+[4.Publish]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/4.Publish_to_Azure.png =200px "Publish AppService"
+[5a.Test]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/5a.Test.png =200px "Test in Browser"
+[5b.Test]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/5b.Test.png =200px "Test with Mobile Browser"
+[6a.ViewInPortal]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/6a.Azure_Service_Plans.png =200px "Find AppService in Portal"
+[6b.ServicePlans]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/6b.Azure_App_Service.png =200px "View Service Plans(and default!)"
+[6c.SetServicePlan]: https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/6c.Scale_Down.png =200px "Select Dev Service Plan"
 
