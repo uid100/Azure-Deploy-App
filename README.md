@@ -41,9 +41,9 @@ Open Azure resource manager in portal and find app service
 
 View service plans (and default setting!)
 
-<img src="https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/6b.Azure_Service_Plans.png" width="400" />
+<img src="https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/6b.Azure_Service_Plans.png" width="500" />
 
 Select dev service plan
 
-<img src="https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/6c.Scale_Down.png" width="400" />
+<img src="https://raw.githubusercontent.com/uid100/Publish-AppService-to-Azure/master/6c.Scale_Down.png" width="500" />
 
